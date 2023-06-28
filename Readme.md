@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhash Suthar B</h1>
 <h3 align="center">Transforming ideas into extraordinary digital experiences. Let's collaborate, innovate, and code together!</h3>
-<img align="right" width=450 alt="coder gif" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
+<img align="left" width=450 alt="coder gif" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash-suthar&label=Profile%20views&color=0e75b6&style=flat" alt="subhash-suthar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/isubhashsuthar" target="blank"><img src="https://img.shields.io/twitter/follow/isubhashsuthar?logo=twitter&style=for-the-badge" alt="isubhashsuthar" /></a> </p>
