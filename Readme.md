@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Subhash Suthar B</h1>
 <h3 align="center">Transforming ideas into extraordinary digital experiences. Let's collaborate, innovate, and code together!</h3>
-<img align="left" width=450 alt="coder gif" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
+<img align="left" width=450 alt="coder gif" src="https://www.bing.com/images/search?view=detailV2&ccid=kIacWWXj&id=CC13C72D6E82213098C0A2435427836A53BA4461&thid=OIP.kIacWWXjfYBFXqIXhIuCXQHaFj&mediaurl=https%3a%2f%2fphysicsgurukul.com%2fwp-content%2fuploads%2f2019%2f02%2fcharacter-1.gif&exph=600&expw=800&q=gif+for+github+developer&simid=608034895648149957&FORM=IRPRST&ck=44C8AE6C9CBC7341E94875B491CCC03F&selectedIndex=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash-suthar&label=Profile%20views&color=0e75b6&style=flat" alt="subhash-suthar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/isubhashsuthar" target="blank"><img src="https://img.shields.io/twitter/follow/isubhashsuthar?logo=twitter&style=for-the-badge" alt="isubhashsuthar" /></a> </p>
 
 - 🤝 I’m looking for Help **Searching Mentor**
 
-- 📝 I regularly write articles on [https://imsubhashsuthar.blogspot.com/](https://imsubhashsuthar.blogspot.com/)
+- 📝 I regularly write articles on [medium](https://medium.com/@soy.subhashsuthar)
 
 - 💬 Ask me about **Experienced developer mentoring freshers to achieve success. Let's collaborate!**
 
