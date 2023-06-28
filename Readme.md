@@ -1,4 +1,4 @@
-<img align="top" width=450 alt="coder gif" src="https://www.guo.io/content/images/size/w1140/2021/04/1_IVLnYz3Wv9JR6eE-LFllYg.jpeg">
+<img align="top" width=650 alt="coder gif" src="https://www.guo.io/content/images/size/w1140/2021/04/1_IVLnYz3Wv9JR6eE-LFllYg.jpeg">
 <h1 align="center">Hi 👋, I'm Subhash Suthar B</h1>
 <h3 align="center">Transforming ideas into extraordinary digital experiences. Let's collaborate, innovate, and code together!</h3>
 <img align="right" width=450 alt="coder gif" src="https://camo.githubusercontent.com/3a9a87438c3ed7249467b3932a730ebe330f2c40f65a90380ffb54ad81e1486e/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722d6472696262626c652e676966">
