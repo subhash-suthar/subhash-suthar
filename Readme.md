@@ -1,6 +1,7 @@
+<img align="top" width=450 alt="coder gif" src="https://tvcdn.fancaps.net/3731430.jpg">
 <h1 align="center">Hi 👋, I'm Subhash Suthar B</h1>
 <h3 align="center">Transforming ideas into extraordinary digital experiences. Let's collaborate, innovate, and code together!</h3>
-<img align="top" width=450 alt="coder gif" src="https://camo.githubusercontent.com/3a9a87438c3ed7249467b3932a730ebe330f2c40f65a90380ffb54ad81e1486e/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" width=450 alt="coder gif" src="https://camo.githubusercontent.com/3a9a87438c3ed7249467b3932a730ebe330f2c40f65a90380ffb54ad81e1486e/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722d6472696262626c652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash-suthar&label=Profile%20views&color=0e75b6&style=flat" alt="subhash-suthar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/isubhashsuthar" target="blank"><img src="https://img.shields.io/twitter/follow/isubhashsuthar?logo=twitter&style=for-the-badge" alt="isubhashsuthar" /></a> </p>
