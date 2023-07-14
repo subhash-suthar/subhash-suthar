@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for Help **Searching Mentor**
 
-- 📝 I regularly write articles on [medium](https://medium.com/@soy.subhashsuthar)
+- 📝 I write articles on [medium](https://medium.com/@soy.subhashsuthar)
 
 - 💬 Ask me about **Experienced developer mentoring freshers to achieve success. Let's collaborate!**
 
