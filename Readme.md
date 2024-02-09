@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Experienced developer mentoring freshers to achieve success. Let's collaborate!**
 
-- 📫 How to reach me **iamsubhashsuthar@gmail.com**
+- 📫 check inbox compose **iamsubhashsuthar@gmail.com**
 
 - ⚡ Fun fact **Over the course of four years of study, I have discovered that mentoring and guiding freshers through bug resolution and facilitating their deployment to the industry not only enhances their skills but also fosters a stronger and more resilient software development ecosystem.**
 
