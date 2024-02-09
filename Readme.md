@@ -1,7 +1,9 @@
 <img align="top" width=1250 alt="coder gif" src="https://www.guo.io/content/images/size/w1140/2021/04/1_IVLnYz3Wv9JR6eE-LFllYg.jpeg">
 <h1 align="center">Hi 👋, I'm Subhash Suthar B</h1>
 <h3 align="center">Transforming ideas into extraordinary digital experiences. Let's collaborate, innovate, and code together!</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
+<div style="display: flex; justify-content: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash-suthar&label=Profile%20views&color=0e75b6&style=flat" alt="subhash-suthar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/isubhashsuthar" target="blank"><img src="https://img.shields.io/twitter/follow/isubhashsuthar?logo=twitter&style=for-the-badge" alt="isubhashsuthar" /></a> </p>
